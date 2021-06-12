@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.andreas.JavaSwingDanJDBC.TargetForm">
+  <grid id="27dc6" binding="rootTarget" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="500" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="f5d60" class="javax.swing.JLabel" binding="txtNama">
+        <constraints/>
+        <properties>
+          <text value="Nama"/>
+        </properties>
+      </component>
+      <component id="bab34" class="javax.swing.JLabel" binding="txtAlamat">
+        <constraints/>
+        <properties>
+          <text value="Alamat"/>
+        </properties>
+      </component>
+      <component id="1bd23" class="javax.swing.JLabel" binding="txtUmur">
+        <constraints/>
+        <properties>
+          <text value="Umur"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
